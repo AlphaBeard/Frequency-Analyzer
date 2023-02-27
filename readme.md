@@ -1,6 +1,7 @@
 # Frequency Analyzer
+A python program that takes mp3's are returns it's component notes in standard western notation. 
 
-## todo
+## TODO
 - Determine how mp3's are saved and how to turn that into a function of pitch per time.
 - find a fourier transform python library
     - Preferably one numpy based 
